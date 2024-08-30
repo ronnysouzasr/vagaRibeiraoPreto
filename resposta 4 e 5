@@ -1,0 +1,21 @@
+4) Completar a sequência lógica
+
+a) 1, 3, 5, 7, 9
+b) 2, 4, 8, 16, 32, 64, 128
+c) 0, 1, 4, 9, 16, 25, 36, 49
+d) 4, 16, 36, 64, 100
+e) 1, 1, 2, 3, 5, 8, 13
+f) 2, 10, 12, 16, 17, 18, 19, 20
+
+5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. 
+Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?   
+
+    Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+    Desligue o primeiro interruptor e ligue o segundo interruptor.
+    Vá para a sala das lâmpadas.
+
+Na sala das lâmpadas:
+
+    A lâmpada que está acesa é controlada pelo segundo interruptor.
+    A lâmpada que está apagada mas quente é controlada pelo primeiro interruptor.
+    A lâmpada que está apagada e fria é controlada pelo terceiro interruptor.
